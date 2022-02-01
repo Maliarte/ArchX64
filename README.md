@@ -27,10 +27,10 @@ diretório \ Teste \ Anuncio , digite: move \data\*.xls \teste\anuncio\
 MD ou MKDIR:– Criar uma Nova pasta
 Para criar uma pasta chamada exemplo, digite: mkdir exemplo
 #
-
+### CD\ ...: Voltar 
 ### CD ...: Entrar em uma pasta
 ### COPY ...: Copiar arquivos
-### < comando > ...: setInstruction
+
 ### < comando > ...: setInstruction
 ### < comando > ...: setInstruction
 ### < comando > ...: setInstruction
@@ -73,6 +73,6 @@ Para criar uma pasta chamada exemplo, digite: mkdir exemplo
 * [Issues for WHO can HELP] ..: Why my terminal is running with 'system32' if he is x64? TY
 
 ## Append
-my keypad have hungry, so he dont take my work now. So, edit this later.
-https://www.ufsm.br/app/uploads/sites/762/2021/05/Principais-comandos-do-prompt-do-Windows-CMD.pdf
-https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/diskpart
+Existem dois tipos de usuário: aqueles que procuram problemas, e aqueles que pensam na solução. Barbarxs, optem pela segunda opção. Mãe Ogra do C
+* [Microsoft](https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/diskpart) 
+* [Universita](https://www.ufsm.br/app/uploads/sites/762/2021/05/Principais-comandos-do-prompt-do-Windows-CMD.pdf)
