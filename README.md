@@ -67,10 +67,33 @@ Para criar uma pasta chamada exemplo, digite: mkdir exemplo
 
 
 
-<img buff buff buff>
 
 
-* [Issues for WHO can HELP] ..: Why my terminal is running with 'system32' if he is x64? TY
+
+* [Issues for my CamelÔ HUSBand "GOOGLE"] ..: Why my terminal is running with 'system32' if he is x64? TY
+
+
+
+
+
+#
+## Visualize
+Acumulador -> PC -> Program Counter
+![](https://github.com/Maliarte/images/blob/master/SCPU1.jpg)
+![](https://github.com/Maliarte/images/blob/master/CPUarquitetura.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Append
 Existem dois tipos de usuário: aqueles que procuram problemas, e aqueles que pensam na solução. Barbarxs, optem pela segunda opção. Mãe Ogra do C
