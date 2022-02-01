@@ -95,7 +95,9 @@ Acumulador -> PC -> Program Counter
 
 
 
+
 ## Append
 Existem dois tipos de usuário: aqueles que procuram problemas, e aqueles que pensam na solução. Barbarxs, optem pela segunda opção. Mãe Ogra do C
 * [Microsoft](https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/diskpart) 
 * [Universita](https://www.ufsm.br/app/uploads/sites/762/2021/05/Principais-comandos-do-prompt-do-Windows-CMD.pdf)
+* [Stylo-Mali-Mood](https://www.youtube.com/watch?v=DzafnaHr20w)
