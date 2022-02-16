@@ -20,12 +20,12 @@ CLS – Este comando limpa a tela e colocando o cursor na primeira linha do prom
 – 
 Para copiar um arquivo chamado Aula.doc da unidade atual e do diretório
 para um diretório existente chamado classe que está localizado na unidade C,
-digite: copy Aula.doc c:\classe
-MOVE: Mover arquivos ou renomear pastas
-Para mover todos os arquivos com a extensão. xls do diretório \data para o
-diretório \ Teste \ Anuncio , digite: move \data\*.xls \teste\anuncio\
-MD ou MKDIR:– Criar uma Nova pasta
-Para criar uma pasta chamada exemplo, digite: mkdir exemplo
+digite: copy Aula.doc c:\classe <br>
+### MOVE: Mover arquivos ou renomear pastas <br>
+Para mover todos os arquivos com a extensão .xls do diretório \data para o
+diretório \ Teste \ Anuncio , digite: move \data\*.xls \teste\anuncio\ <br>
+### MD ou MKDIR:– Criar uma Nova pasta<br>
+Para criar uma pasta chamada exemplo, digite: mkdir exemplo <br>
 #
 ### CD\ ...: Voltar 
 ### CD ...: Entrar em uma pasta
